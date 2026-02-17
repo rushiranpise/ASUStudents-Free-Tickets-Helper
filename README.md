@@ -1,4 +1,3 @@
-```markdown
 # 🎟️ ASU Students Free Tickets Helper
 
 A Tampermonkey userscript that automatically detects and selects **free ($0) ASU student tickets** on Ticketmaster and adds them to your cart.
